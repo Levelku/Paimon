@@ -1,0 +1,15 @@
+# Cache
+__pycache__
+*.pyc
+
+# Config
+.env
+
+# External/private cogs
+cogs_external/
+
+# VS Code
+.vscode
+
+# Jupyter
+*.ipynb
